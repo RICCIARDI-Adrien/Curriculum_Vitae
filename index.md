@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# Ingénieur informaticien/électronicien systèmes embarqués
 
-You can use the [editor on GitHub](https://github.com/RICCIARDI-Adrien/Curriculum_Vitae/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Compétences
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* **Informatique :** Programmation de microcontrôleurs sans système d'exploitation, bootloader, développements kernel et drivers Linux, Linux embarqué, développement userspace POSIX, développement Qt, développement QML.
+* **Electronique :** Electronique logique, microcontrôleurs, robotique mobile.
+* **Langues :** *Anglais :* lu, écrit, parlé (880 au TOEIC en juin 2012); *Italien :* bilingue.
+* **Langages :** C, C++, assembleur x86, assembleur PIC, shell, GNU makefile.
+* **Plateformes :** Linux, BSD, Windows, [bare metal](https://en.wikipedia.org/wiki/Bare_machine).
+* **CAO électronique :** Autodesk EAGLE (schématique et routage), Cadence OrCAD (schématique), KiCAD (schématique et routage).
+* **Microcontrôleurs :** Microchip PIC16 et PIC18, Silicon Labs C8051 et EFM8 (coeurs 8051), Atmel ATmega328P, STM32.
+* **SoC / coeurs :** Broadcom BCM283x (Raspberry Pi), Freescale i.MX 6, x86, MIPS 4K, Z80.
+* **Bus :** Bus classiques de microcontrôleurs (I2C, UART, SPI...), PCI, USB.
+* **Linux embarqué :** Buildroot, OpenWRT.
+* **Gestionnaires de sources :** git, svn.
 
-### Markdown
+## Expériences professionnelles
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* **2017/actuellement :** Ingénieur Développement chez [Electronie](http://www.electronie.fr/). Conception hardware, schématique, routage, développement de logiciels embarqués sur microcontrôleurs 8 et 32 bits, développement de drivers Linux et portage de distributions Linux sur des cartes spécifiques, développement Qt.
+* **2014/2017 :** Ingénieur Développeur chez SFR. Développement de la box [NB6VAC](https://assistance.sfr.fr/internet-tel-fixe/box-plus/caracteristiques-techniques-box-plus-de-sfr.html) (connue sous le nom de "la box Plus de SFR") : debug hardware; conception et développement du firmware du microcontrôleur embarqué; développement de drivers Linux; portage, intégration et optimisation de la partie VoIP.
+* **2013/2014 :** Stage de fin d'études de six mois en entreprise (SFR, anciennement Efixo), portage du bootloader U-Boot sur une box.
+* **2012/2013 :** Stage de trois mois en entreprise (Efixo, R&D de SFR), étude et modification d'un accélérateur de paquets réseau.
+* **2011/2012 :** CDD d'un mois en entreprise (Nexvision SAS, entreprise française spécialiste du monde de la vision électronique), développement en C++ de l'architecture d'un serveur de streaming.
+* **2011/2012 :** Stage d'un mois en entreprise, participation à la conception d'un serveur de streaming pour plateformes embarquées et écriture de documents techniques (Nexvision SAS).
+* **2010/2011 :** CDD d'un mois en entreprise, participation au développement d'un automate programmable pour le marché industriel (NexIO de Nexvision SAS).
+* **2010/2011 :** Stage d'un mois en entreprise, participation à la conception et à la programmation d'un TAG ZigBee pour le monde de l'industrie (NexTag de Nexvision SAS).
 
-```markdown
-Syntax highlighted code block
+## Formation
 
-# Header 1
-## Header 2
-### Header 3
+* **2011/2014 :** Polytech Marseille (ex Ecole Supérieure d'Ingénieurs de Luminy), Marseille, Filière Informatique, Réseaux et Multimédia.
+* **2009/2011 :** IUT Université Paul Cézanne III, Marseille, Département Génie Electrique et Informatique Industrielle (GEII).
+* **2008/2009 :** Lycée Frédéric Joliot-Curie, Aubagne, Baccalauréat scientifique Sciences de la Vie et de la Terre option Sciences de la Vie et de la Terre, mention assez bien.
 
-- Bulleted
-- List
+## Centres d'intérêt
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RICCIARDI-Adrien/Curriculum_Vitae/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* **Sport :** Pratique du Judo et du Jiu-Jitsu pendant 10 ans (ceinture marron), natation, randonnées.
+* **Passions :** La programmation, Linux, le bricolage, la littérature.
