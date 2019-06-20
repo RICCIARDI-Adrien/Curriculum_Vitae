@@ -34,4 +34,4 @@
 ## Centres d'intérêt
 
 * **Sport :** Pratique du Judo et du Jiu-Jitsu pendant 10 ans (ceinture marron), natation, randonnées.
-* **Passions :** La programmation, Linux, le bricolage, la littérature.
+* **Passions :** La programmation, Linux, le bricolage, la littérature, mais surtout le **saucisson** et le **whisky**.
