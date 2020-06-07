@@ -11,7 +11,7 @@
 * **Microcontrôleurs :** Microchip PIC16 et PIC18, Silicon Labs C8051 et EFM8 (coeurs 8051), Atmel ATmega328P, STM32.
 * **SoC / coeurs :** Broadcom BCM283x (Raspberry Pi), Freescale i.MX 6, x86, MIPS 4K, Z80.
 * **Bus :** Bus classiques de microcontrôleurs (I2C, UART, SPI...), PCI, USB.
-* **Linux embarqué :** Buildroot, OpenWRT.
+* **Linux embarqué :** Buildroot, OpenWRT, nombreuses expériences sur Raspberry Pi Compute Module.
 * **Gestionnaires de sources :** git, svn.
 
 ## Expériences professionnelles
