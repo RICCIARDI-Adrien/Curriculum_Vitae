@@ -9,14 +9,15 @@
 * **Plateformes :** Linux, BSD, Windows, [bare metal](https://en.wikipedia.org/wiki/Bare_machine).
 * **CAO électronique :** Autodesk EAGLE (schématique et routage), Cadence OrCAD (schématique), KiCAD (schématique et routage).
 * **Microcontrôleurs :** Microchip PIC16 et PIC18, Silicon Labs C8051 et EFM8 (coeurs 8051), Atmel ATmega328P, STM32.
-* **SoC / coeurs :** Broadcom BCM283x (Raspberry Pi), Freescale i.MX 6, x86, MIPS 4K, Z80.
+* **SoC / coeurs :** Broadcom BCM283x (Raspberry Pi), Freescale i.MX 6, x86, MIPS 4K, Z80, plusieurs expériences sur Raspberry Pi Compute Module.
 * **Bus :** Bus classiques de microcontrôleurs (I2C, UART, SPI...), PCI, USB.
-* **Linux embarqué :** Buildroot, OpenWRT, nombreuses expériences sur Raspberry Pi Compute Module.
+* **Linux embarqué :** Buildroot, OpenWRT.
 * **Gestionnaires de sources :** git, svn.
 
 ## Expériences professionnelles
 
-* **2017/actuellement :** Ingénieur Développement chez [Electronie](http://www.electronie.fr/). Conception hardware, schématique, routage, développement de logiciels embarqués sur microcontrôleurs 8 et 32 bits, développement de drivers Linux et portage de distributions Linux sur des cartes spécifiques, développement Qt.
+* **2018/actuellement :** Inventeur, concepteur, développeur et mainteneur du gestionnaire de mots de passe matériel [Hoplite Key Manager](https://hoplitekeymanager.com/index-fr). Hardware, microcontrôleurs, C, C++, Qt multi-plateformes, déploiement multi-plateformes, cryptographie, sécurité.
+* **2017/actuellement :** Ingénieur Développement chez [Electronie](http://www.electronie.fr). Conception hardware, schématique, routage, développement de logiciels embarqués sur microcontrôleurs 8 et 32 bits, développement de drivers Linux et portage de distributions Linux sur des cartes spécifiques, conception et réalisation de cartes basées sur SoC Linux, développement Qt.
 * **2014/2017 :** Ingénieur Développeur chez SFR. Développement de la box [NB6VAC](https://assistance.sfr.fr/internet-tel-fixe/box-plus/caracteristiques-techniques-box-plus-de-sfr.html) (connue sous le nom de "la box Plus de SFR") : debug hardware; conception et développement du firmware du microcontrôleur embarqué; développement de drivers Linux; portage, intégration et optimisation de la partie VoIP.
 * **2013/2014 :** Stage de fin d'études de six mois en entreprise (SFR, anciennement Efixo), portage du bootloader U-Boot sur une box.
 * **2012/2013 :** Stage de trois mois en entreprise (Efixo, R&D de SFR), étude et modification d'un accélérateur de paquets réseau.
