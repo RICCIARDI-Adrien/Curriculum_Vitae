@@ -16,8 +16,9 @@
 
 ## Expériences professionnelles
 
+* **2021/actuellement :** Ingénieur R&D Informatique chez [BayLibre](https://baylibre.com). Conception hardware, développement de logiciels embarqués sur microcontrôleurs 8 et 32 bits, Linux embarqué, développement de drivers Linux, portage de distributions Linux sur des cartes spécifiques, développement Qt.
 * **2018/actuellement :** Inventeur, concepteur, développeur et mainteneur du gestionnaire de mots de passe matériel [Hoplite Key Manager](https://hoplitekeymanager.com/index-fr). Hardware, microcontrôleurs, C, C++, Qt multi-plateformes, déploiement multi-plateformes, cryptographie, sécurité.
-* **2017/actuellement :** Ingénieur Développement chez [Electronie](http://www.electronie.fr). Conception hardware, schématique, routage, développement de logiciels embarqués sur microcontrôleurs 8 et 32 bits, développement de drivers Linux et portage de distributions Linux sur des cartes spécifiques, conception et réalisation de cartes basées sur SoC Linux, développement Qt.
+* **2017/2020 :** Ingénieur Développement chez [Electronie](http://www.electronie.fr). Conception hardware, schématique, routage, développement de logiciels embarqués sur microcontrôleurs 8 et 32 bits, développement de drivers Linux et portage de distributions Linux sur des cartes spécifiques, conception et réalisation de cartes basées sur SoC Linux, développement Qt.
 * **2014/2017 :** Ingénieur Développeur chez SFR. Développement de la box [NB6VAC](https://assistance.sfr.fr/internet-tel-fixe/box-plus/caracteristiques-techniques-box-plus-de-sfr.html) (connue sous le nom de "la box Plus de SFR") : debug hardware; conception et développement du firmware du microcontrôleur embarqué; développement de drivers Linux; portage, intégration et optimisation de la partie VoIP.
 * **2013/2014 :** Stage de fin d'études de six mois en entreprise (SFR, anciennement Efixo), portage du bootloader U-Boot sur une box.
 * **2012/2013 :** Stage de trois mois en entreprise (Efixo, R&D de SFR), étude et modification d'un accélérateur de paquets réseau.
