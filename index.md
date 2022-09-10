@@ -7,10 +7,10 @@
 * **Langues :** *Anglais :* lu, écrit, parlé (880 au TOEIC en juin 2012); *Italien :* bilingue.
 * **Langages :** C, C++, assembleur x86, assembleur PIC, shell, GNU makefile.
 * **Plateformes :** Linux, BSD, Windows, [bare metal](https://en.wikipedia.org/wiki/Bare_machine).
-* **CAO électronique :** Autodesk EAGLE (schématique et routage), Cadence OrCAD (schématique), KiCAD (schématique et routage).
+* **CAO électronique :** KiCad (schématique et routage), Autodesk EAGLE (schématique et routage), Cadence OrCAD (schématique).
 * **Microcontrôleurs :** Microchip PIC16 et PIC18, Silicon Labs C8051 et EFM8 (coeurs 8051), Atmel ATmega328P, STM32.
 * **SoC / coeurs :** Broadcom BCM283x (Raspberry Pi), Freescale i.MX 6, x86, MIPS 4K, Z80, plusieurs expériences sur Raspberry Pi Compute Module.
-* **Bus :** Bus classiques de microcontrôleurs (I2C, UART, SPI...), PCI, USB.
+* **Bus :** Bus classiques de microcontrôleurs (I2C, UART, SPI...), PCI, USB, CAN, CAN FD.
 * **Linux embarqué :** Buildroot, OpenWRT.
 * **Gestionnaires de sources :** git, svn.
 
