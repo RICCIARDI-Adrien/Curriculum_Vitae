@@ -1,0 +1,24 @@
+name: Generate PDF
+on: [push]
+
+jobs:
+  generate_pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout sources
+        uses: actions/checkout@v4
+      - name: Install dependencies
+        run: |
+          sudo apt update
+          sudo apt install -y pandoc weasyprint
+      - name: Generate the PDF
+        run: |
+          # The WeasyPrint engine generates a PDF style identical to plain HTML (wkhtmltopdf does not) and works on Ubuntu 22.04 (ConTeXt is crashing on this Ubuntu version)
+          pandoc --verbose --pdf-engine=weasyprint --metadata title="CV d'Adrien RICCIARDI" index.md -o "CV_Adrien_Ricciardi.pdf"
+      - name: Update the release
+        if: startsWith(github.ref, 'refs/heads/master')
+        uses: softprops/action-gh-release@v1
+        with:
+          files: "CV_Adrien_Ricciardi.pdf"
+          name: "Latest version"
+          tag_name: "latest"
